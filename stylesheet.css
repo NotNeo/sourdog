@@ -1,0 +1,77 @@
+#header_inner {
+  height: 90px;
+	width: 1135px;
+  border: orange dotted 1px;
+  margin: auto;
+}
+#header_inner img{
+  margin-top: 10px;
+}
+#nav li{
+  height: 50px;
+  width: 90px;
+  display: inline-block;
+  border: green dotted 1px;
+  float: right;
+  margin: -50px 0 0 0;
+}
+#heading {
+  height: 320px;
+  width: 1135px;
+  border: red dotted 1px;
+  margin: auto;
+}
+#heading h2{
+  margin-top: -304px;
+  margin-left: 380px;
+}
+#heading p{
+  margin-left: 380px;
+}
+#lowerheading{
+  margin-left: 825px;
+  margin-top: 181px;
+}
+#subheading {
+  height: 300px;
+  width: 1135px;
+  border: black dotted 1px;
+  margin: auto;
+}
+#subheading img {
+  margin-left: 17px;
+  margin-top: 25px;
+}
+#sample1 {
+  height: 150px;
+  width: 720px;
+  margin-left: 355px;
+  border: green dotted 1px;
+}
+#sample2{
+  height: 150px;
+  width: 720px;
+  border: green dotted 1px;
+  margin-top: 150px;
+  margin-left: -1px;
+}
+#sample3 {
+  height: 150px;
+  width: 720px;
+  margin-top: 150px;
+  margin-left: -1px;
+  border: green dotted 1px;
+}
+#contactform {
+  height: 450px;
+  width: 413px;
+  border: purple dotted 1px;
+  margin-left: 1077px;
+  margin-top: -152px;
+}
+#footer {
+  height: 50px;
+  width: 1135px;
+  border: green dotted 1px;
+  margin: auto;
+}
